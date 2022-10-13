@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ALI WEB SITE</title>
+</head>
+<body>
+    <p>
+        <table border="1">
+            <tr width="40%">
+                <td>
+                    <ul type="circle">
+                        <li>WEB SITE FRONT PAGE</li>
+                        <p></p>
+                        <LI>ABOUT OUR COMBANY</LI>
+                        <p></p>
+                        <li>HOW TO CONTACT US</li>
+                        <p></p>
+                        <li>BROWSE ALL PHOTOS</li>
+                        <p></p>
+                        <li>SEARCH FOR PHOTOS</li>
+                        <p></p>
+                        <li>NEWS AND EVENTS</li>
+                    </ul>
+                </td>
+                <td>
+                    <h2>   WELCOME TO YOUR PHOTO SITE</h2>
+                    <img src="a2.jpg" width="70" height="70%"> <img src="a1.jpg" width="100" height="100%"> <img src="a3.jpg" width="70" height="70%">
+                    <p>  The building block of a database is the record. A record is a collection of related  </p>
+                    <p>  data treated as a single entity. For example, a hockey trading card could be called a  </p>
+                    <p>  record: it brings together the name, photograph, team, and statistics of one player.  </p>
+                    <p></p>
+                    <P> <h3><b><u>An introduction to our web site</u></b></h3> </P>
+                    <p></p>
+                    <P> A collection of records that share the same fields is called a table because this kind </P>
+                    <P> of information can easily be presente d in table format: each column represents a </P>
+                    <p> field and each row represents a record. In fact, the word column is synonymous with </p>
+                    <p> the word field, and the word row is synonymous with the word record </p>
+                </td>
+            </tr>
+            <tr>
+                <td align="middle">
+                <img src="aa1.png" width="20" height="20"> <img src="aa2.png" width="20" height="20"> <img src="aa3.png" width="20" height="20">
+                </td>
+                <td>
+                <p>copyright (c) 2003, your company name. all right reserved</p>
+                </td>
+            </tr>
+        </table>
+    </p>
+</body>
+</html>
